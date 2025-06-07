@@ -1,0 +1,7 @@
+[submodule "ais-its-cii-seemp-fe"]
+	path = ais-its-cii-seemp-fe
+	url = git@github.com:DarmawanWeb/ais-its-cii-seemp-fe.git
+
+[submodule "ais-its-cii-seemp-be"]
+	path = ais-its-cii-seemp-be
+	url = git@github.com:DarmawanWeb/ais-its-cii-seemp-be.git
